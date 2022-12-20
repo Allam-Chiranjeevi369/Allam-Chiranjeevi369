@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA Using C++**
 
-- 💬 Ask me about **C++,python,HTML...**
+- 💬 Ask me about **C,C++,python,HTML...**
 
 - 📫 How to reach me **contact a.chiranjeevi5d4@gmail.com**
 
