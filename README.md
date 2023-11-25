@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chiranjeevi</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-- 🔭 I’m currently working on **Adaptive Hierarchical Cyber Attack Detection and Localization in Active Distribution Systems**
+- 🔭 I’m currently working on **Spring Framework**
 
-- 🌱 I’m currently learning **DSA Using C++**
+- 🌱 I’m currently learning **Java Full Stack Devlopment**
 
-- 💬 Ask me about **C,C++,python,HTML...**
+- 💬 Ask me about **Java(Core & Advance), Spring Framework, C, C++, python, HTML, CSS, Machine Learning...**
 
 - 📫 How to reach me **contact a.chiranjeevi5d4@gmail.com**
 
