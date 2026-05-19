@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **contact a.chiranjeevi5d4@gmail.com**
 
-- ⚡ Fun fact **I'm very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
